@@ -14,6 +14,9 @@ public class Calci {
 	double sum = num1 + num2; 
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
 
+        double sub = num1 - num2; 
+        System.out.println("The subs of " + num1 + " and " + num2 + " is: " + subs);
+
         scanner.close();
     }
 }
